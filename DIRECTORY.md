@@ -1,4 +1,7 @@
 
+## Sorts
+  * [BucketSort](https://github.com/TheAlgorithms/Java/blob/master/Sorts/BucketSort.java)
+
 ## src
   * main
     * java
